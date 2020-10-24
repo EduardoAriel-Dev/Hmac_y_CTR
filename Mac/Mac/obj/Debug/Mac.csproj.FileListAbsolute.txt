@@ -1,0 +1,6 @@
+C:\Users\Aduardo\Documents\SharpDevelop Projects\Mac\Mac\bin\Debug\Mac.exe.config
+C:\Users\Aduardo\Documents\SharpDevelop Projects\Mac\Mac\bin\Debug\Mac.exe
+C:\Users\Aduardo\Documents\SharpDevelop Projects\Mac\Mac\bin\Debug\Mac.pdb
+C:\Users\Aduardo\Documents\SharpDevelop Projects\Mac\Mac\obj\Debug\Mac.csprojResolveAssemblyReference.cache
+C:\Users\Aduardo\Documents\SharpDevelop Projects\Mac\Mac\obj\Debug\Mac.exe
+C:\Users\Aduardo\Documents\SharpDevelop Projects\Mac\Mac\obj\Debug\Mac.pdb

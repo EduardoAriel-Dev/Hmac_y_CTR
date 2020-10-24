@@ -1,0 +1,6 @@
+C:\Users\Aduardo\Documents\SharpDevelop Projects\CTR\CTR\bin\Debug\CTR.exe.config
+C:\Users\Aduardo\Documents\SharpDevelop Projects\CTR\CTR\bin\Debug\CTR.exe
+C:\Users\Aduardo\Documents\SharpDevelop Projects\CTR\CTR\bin\Debug\CTR.pdb
+C:\Users\Aduardo\Documents\SharpDevelop Projects\CTR\CTR\obj\Debug\CTR.csprojResolveAssemblyReference.cache
+C:\Users\Aduardo\Documents\SharpDevelop Projects\CTR\CTR\obj\Debug\CTR.exe
+C:\Users\Aduardo\Documents\SharpDevelop Projects\CTR\CTR\obj\Debug\CTR.pdb
